@@ -1,4 +1,4 @@
 # HOW TO
-Get the project
-Edit ressources
+=======
+Edit resources
 Create pullrequest

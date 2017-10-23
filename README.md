@@ -1,5 +1,5 @@
 # Minopoly-RessourcePack
-Github repository for Minopoly ressourcepack
+Github repository for Minopoly resourcepack
 + Make pull-request for different style
 
 
