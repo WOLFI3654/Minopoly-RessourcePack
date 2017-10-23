@@ -2,7 +2,6 @@
 Github repository for Minopoly resourcepack
 + Make pull-request for different style
 
-
 # Missing and needed:
-+ Dice textures
++ Dice textures (1-6)
 + be creative
